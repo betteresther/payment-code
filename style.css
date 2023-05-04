@@ -1,0 +1,29 @@
+#logo{
+    width: 80px;
+    height: 80px;
+    float: right;
+}
+hr{
+    height: 5px;
+    background-color: green;
+    border: none;
+    margin-top: 3%;
+}
+#date{
+    float: right;
+}
+table{
+    margin-top: 3%;
+}
+#xxx{
+    margin-top:2%;
+}
+#dear{
+    margin-top: 3%;
+}
+#pay, #payer, #name, #add, #pur, #age, #amt, #mail{
+    font-weight: bolder;
+}
+#online{
+    margin-top: 5%;
+}
